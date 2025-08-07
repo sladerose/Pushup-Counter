@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+.tox/
+.coverage
+.pytest_cache/
+nosetests.xml
+coverage.xml
+htmlcov/
+.ipynb_checkpoints
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.ruff_cache
+
+# IDEs
+.idea/
+.vscode/
+
+# Application specific generated files
+application.log
+build/
+dist/
+gui.spec
+settings.ini
+workout_history.db
